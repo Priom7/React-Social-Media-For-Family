@@ -37,6 +37,11 @@
     transform: rotate(360deg);
   }
 }
- .cardwidth{
-   width: 250px;
- }
+.cardwidth {
+  width: 250px;
+}
+
+Card {
+  width: 250px; /* or whatever width you want. */
+  max-width: 250px; /* or whatever width you want. */
+}
