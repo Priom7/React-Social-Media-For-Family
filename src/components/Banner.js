@@ -19,7 +19,7 @@ class Banner extends React.Component {
             backgroundSize: "cover",
             // backgroundRepeat: "no-repeat",
             // backgroundSize: "auto",
-            backgroundImage: `url("https://imaginary.barta24.com/resize?width=800&quality=75&path=uploads/news/2018/Aug/28/1535473082647.jpg")`,
+            backgroundImage: `url("https://i.pinimg.com/564x/0f/7c/55/0f7c55d655a049c80032552267343613.jpg")`,
             backgroundPosition: "center center",
           }}
         >
@@ -27,11 +27,7 @@ class Banner extends React.Component {
             <h1 className="banner_title">Family</h1>
 
             <h1 className="banner_description">
-              Messenger of Allah (peace and blessings upon him) said, “The bond
-              of relationship is suspending from the Throne, and says: ‘He who
-              keeps good relations with me, Allah will keep connection with him,
-              but whosoever severs relations with me, Allah will sever
-              connection with him.” [Al-Bukhari and Muslim]
+              Family
             </h1>
           </div>
           {/* <div className="banner_fadeBottom"></div> */}
